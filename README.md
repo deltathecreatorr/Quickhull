@@ -12,7 +12,7 @@ To do this run the command
 
 ## Running
 
-Simply run all the notebook parts in order, to see the Quickhull Algorithm running.
+Simply run all the notebook parts in order, to see the Quickhull Algorithm running. Python 3.9+ is required.
 
 ## About the Quickhull Algorithm
 
@@ -22,4 +22,4 @@ The Quickhull algorithm has many practical applications like
 - Computer Vision & Image Processing
 - Machine Learning
 
-There are many more applications
+There are many more applications for the algorithm in many different fields.
